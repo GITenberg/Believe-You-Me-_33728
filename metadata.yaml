@@ -1,0 +1,36 @@
+_repo: Believe-You-Me-_33728
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Putnam, Nina Wilcox
+    birthdate: 1888
+    deathdate: 1962
+    gutenberg_agent_id: '36558'
+    url: http://www.gutenberg.org/2009/agents/36558
+description: Author Nina Wilcox Putnam lived an amazingly varied life, dabbling in
+  careers ranging from millinery to comic strip writing, and creating the first 1040
+  tax form for the IRS along the way, not to mention writing the story upon which
+  the Hollywood classic The Mummy was based. In the charming novel Believe You Me!
+  Putnam creates a lead character that's just as unpredictable and lively. The book
+  follows plucky protagonist Mary LaTour as she attempts to navigate the challenges
+  and changes...
+gutenberg_issued: '2010-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcsh 'Dancers -- Fiction'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'World War, 1914-1918 -- United States -- Fiction'
+title: Believe You Me!
+url: http://www.gutenberg.org/ebooks/33728
